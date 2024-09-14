@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDesignPattern", "RepositoryDesignPattern\RepositoryDesignPattern.csproj", "{E140BADE-E31E-4598-B5F1-3052FB1EF580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitfWork", "UnitfWork\UnitfWork.csproj", "{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E140BADE-E31E-4598-B5F1-3052FB1EF580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E140BADE-E31E-4598-B5F1-3052FB1EF580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E140BADE-E31E-4598-B5F1-3052FB1EF580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
