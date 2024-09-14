@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDesignPattern", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitfWork", "UnitfWork\UnitfWork.csproj", "{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{130B8057-47CD-428B-B8C5-2F4B3DD05D8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEC9AA12-7E8C-4448-9F19-9A0197C3D07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130B8057-47CD-428B-B8C5-2F4B3DD05D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130B8057-47CD-428B-B8C5-2F4B3DD05D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130B8057-47CD-428B-B8C5-2F4B3DD05D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130B8057-47CD-428B-B8C5-2F4B3DD05D8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
